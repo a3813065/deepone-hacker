@@ -8,3 +8,9 @@
 並且由於token是根據帳號  以及登入  伺服器發送給我的
 
 所以  代碼已失效  只剩下框架  token需要使用者自己輸入  才能二次生效 美中不足
+
+該代碼甚至會竄改 數據庫資料  讓伺服器認為  用戶有該權限  影響是永久性的
+
+就算關閉遊戲重新登入  還是有該R18與非R18寢室權限
+
+https://drive.google.com/drive/folders/1aUO5y78Ce0rkR7fhymVZ8W4aynypPRg0?usp=drive_link
