@@ -14,3 +14,6 @@
 就算關閉遊戲重新登入  還是有該R18與非R18寢室權限
 
 https://drive.google.com/drive/folders/1aUO5y78Ce0rkR7fhymVZ8W4aynypPRg0?usp=drive_link
+
+含寢室png.mp4.mp3檔案總大小 30GB   
+
