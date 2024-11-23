@@ -1,2 +1,4 @@
 # 我成功破解了FANZA 網頁遊戲DEEPONE 算法
 成功透過漏洞下載了全CG檔案
+最終透過玩家寫好的離線版下載軟件https://github.com/Lisanjin/DeepOneRE
+成功下載全CG 包含非R18寢室部分  該部分py我有進行修正  將部分沒有預覽圖的部分 使用替代性圖片替換
